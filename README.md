@@ -21,7 +21,7 @@ This project contains the trends of the following inputs:
 
 
 
-## 📌 Key Insights
+## Key Insights
 
 -  **Movies** dominate with 80.82% of content  
 -  Popular genres include **Drama**, **Comedy**, and **Documentary**  
